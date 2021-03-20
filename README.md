@@ -10,17 +10,14 @@ Outside of work, I'm interested in music, astrophysics, movies, comics, cooking,
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panosgeorgiadis/)](https://www.linkedin.com/in/panosgeorgiadis/)
 [![Youtube Badge](https://img.shields.io/badge/-PeerTube-darkred?style=flat-square&logo=peertube&logoColor=white&link=https://video.boobalar.net/accounts/drpaneas/video-channels)](https://video.boobalar.net/accounts/drpaneas/video-channels)
-[![Instagram Badge](https://img.shields.io/badge/-@drpaneas:boobalar.net-green?style=flat-square&logo=matrix&logoColor=black&link=@drpaneas:boobalar.net)](https://matrix.org/)
+[![Instagram Badge](https://img.shields.io/badge/-@drpaneas:boobalar.net-darkgreen?style=flat-square&logo=matrix&logoColor=black&link=@drpaneas:boobalar.net)](https://matrix.org/)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fsocial.boobalar.net&style=social)](https://social.boobalar.net/@drpaneas)
 [![Twitter Follow](https://img.shields.io/twitter/follow/panosgeorgiadis?style=social)](https://twitter.com/PanosGeorgiadis)
 
 ### ⚡ Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=fedora)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-grey?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon-red?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drpaneas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
