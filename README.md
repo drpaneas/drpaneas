@@ -19,6 +19,4 @@ Outside of work, I'm interested in music, astrophysics, movies, comics, cooking,
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panosgeorgiadis/)](https://www.linkedin.com/in/panosgeorgiadis/)
 [![Youtube Badge](https://img.shields.io/badge/-PeerTube-darkred?style=flat-square&logo=peertube&logoColor=white&link=https://video.boobalar.net/accounts/drpaneas/video-channels)](https://video.boobalar.net/accounts/drpaneas/video-channels)
-[![Instagram Badge](https://img.shields.io/badge/-@drpaneas:boobalar.net-darkgreen?style=flat-square&logo=matrix&logoColor=black&link=@drpaneas:boobalar.net)](https://matrix.org/)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/000000001?domain=https%3A%2F%2Fsocial.boobalar.net&style=social)](https://social.boobalar.net/@drpaneas)
 [![Twitter Follow](https://img.shields.io/twitter/follow/panosgeorgiadis?style=social)](https://twitter.com/PanosGeorgiadis)
