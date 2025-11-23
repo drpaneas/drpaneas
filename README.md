@@ -4,7 +4,7 @@
 Born in 🇬🇷 Greece • living in 🇩🇪 Germany.
 
 
-💻 automation 🚀 GitOps ☸ kubernetes 🐧 linux 🕹️ emulation 🧐 QA 🖥 SRE  🦊 hacking 🧑‍🚀 astrophysics 
+💻 automation 🚀 devops ☸ kubernetes 🐧 linux 🕹️ emulation 🧐 QA 🖥 SRE  🦊 hacking 🧑‍🚀 astrophysics 
 
 
   
